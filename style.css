@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(219, 223, 221);
+  color: black;
+  width: 80%;
+  max-width: 1024px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+p {
+  /* max-width: 600px; */
+  text-align: center;
+}
